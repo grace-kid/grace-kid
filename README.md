@@ -37,7 +37,7 @@ Hi there! I'm a **Full-Stack Web Developer** passionate about building dynamic, 
 
 ## 🌐 Connect with Me  
 - **LinkedIn**: [](#)  
-- **Portfolio** [https://samson-iloha-portfolio.vercel.app/] (https://samson-iloha-portfolio.vercel.app/)
+- **Portfolio** https://samson-iloha-portfolio.vercel.app/
 - **Email**: gracekid509@gmail.com
 
 ---
