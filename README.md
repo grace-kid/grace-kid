@@ -6,18 +6,18 @@ Hi there! I'm a **Full-Stack Web Developer** passionate about building dynamic, 
 ## 🛠️ Skills and Tools 
 
 ### **Frontend Development**  
-- **Languages**: HTML, CSS, JavaScript  
+- **Languages**: HTML, CSS, JavaScript ,Sql 
 - **Libraries/Frameworks**: React.js, EJS  
 - **Other Tools**: Bootstrap, Tailwind CSS  
 
 ### **Backend Development**  
-- **Languages**: Node.js  
-- **Frameworks**: Express.js  
-- **Database**: MySQL  
+- **Languages**: Node.js   
+- **Frameworks**: Express.js ,Next js  
+- **Database**: MySQL ,postgreSQL ,MongoDB
 - **Authentication**: JWT, bcrypt  
 
 ### **Hosting Platforms**  
-- Render, Railway  
+- Render, Railway ,Vercel
 
 ### **Version Control**  
 - Git, GitHub  
